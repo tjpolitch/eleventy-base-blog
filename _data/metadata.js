@@ -1,10 +1,10 @@
 export default {
-	title: "Eleventy Base Blog v9",
+	title: "F1 Tipping",
 	url: "https://example.com/",
 	language: "en",
-	description: "I am writing about my experiences as a naval navel-gazer.",
+	description: "Tipping competition for the 2025 Formula 1 season.",
 	author: {
-		name: "Your Name Here",
+		name: "TJ",
 		email: "youremailaddress@example.com",
 		url: "https://example.com/about-me/"
 	}
