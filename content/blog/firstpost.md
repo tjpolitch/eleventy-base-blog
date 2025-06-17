@@ -5,9 +5,35 @@ date: 2025-03-16
 tags: grand prix
 ---
 
-## Tips Form
+<style>
+  .responsive-form-container {
+    position: relative;
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    padding-top: 177%;
+  }
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdQkQUfWZ2i5b4sQf6SNn6RKCJuegAjnJV47F45VotOIxKa6Q/viewform?embedded=true" width="640" height="3505" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+  .responsive-form-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+  }
+</style>
+
+<div class="responsive-form-container">
+  <iframe 
+    src="https://docs.google.com/forms/d/e/1FAIpQLSdQkQUfWZ2i5b4sQf6SNn6RKCJuegAjnJV47F45VotOIxKa6Q/viewform?embedded=true"
+    frameborder="0" 
+    marginheight="0" 
+    marginwidth="0">
+    Loading…
+  </iframe>
+</div>
+
 
 
 ## Tips
